@@ -143,7 +143,7 @@ And I have some of the skills I'm time punctual, and I have fine leadership qual
                 </div>
             </div>
             <!--Item categories listing end-->
-            <div id="#contact"><center><u><h1>Contact</h1></u></center></div>
+            <div id="contact"><center><u><h1>Contact</h1></u></center></div>
             <div style="margin: 50px 0 100px 0"><p><center><i>Feel free to get in touch.Cheers!</i></center></p></div>
             <div><center><u><h2>E-Mail</h2></u></center></div>
             <div style="margin: 40px 0 100px 0"><p><center><i>rmsvgupta8261@gmail.com</i></center></p></div>
